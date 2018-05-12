@@ -1,10 +1,16 @@
 _repo: Kansantaruja-Laatokan-luoteis-rannikolta-kesalla-1879_48419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schwindt, Petter Theodor
     gutenberg_agent_id: '44787'
     url: http://www.gutenberg.org/2009/agents/44787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48419#Kansantaruja-Laatokan-luoteis-rannikolta-kesalla-1879
 gutenberg_issued: '2015-03-06'
 gutenberg_type: Text
 identifiers:
